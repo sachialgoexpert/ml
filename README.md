@@ -7,4 +7,4 @@ The goal is to consistently practice ML concepts, implement algorithms from scra
 ✍️ Author
 
 Sachchida Singh
-M.Tech (AI & ML) | ML Practitioner | Software Quality & AI Enthusiast
+M.Tech (AI & ML) | ML Practitioner | Agentic AI| MCP | Generative AI| Knowledge Graphs
